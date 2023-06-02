@@ -3,7 +3,7 @@
 # usage: pa7.sh
 # (run within your pa7 directory to test your code)
 
-SRCDIR=https://raw.githubusercontent.com/tekinengin/cse101-pt.s23/main/pa7
+SRCDIR=https://raw.githubusercontent.com/GigzPumpking/cse101-pt.s23/main/pa7
 
 EXE_ALL=( pa7-func-check.sh pa7-unit-check.sh pa7-make-check.sh )
 EXE_RANGE=$((${#EXE_ALL[*]} - 1))
